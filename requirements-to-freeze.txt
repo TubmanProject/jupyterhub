@@ -1,0 +1,9 @@
+ipython
+jupyter
+jupyterhub
+jupyter_contrib_nbextensions
+ipywidgets
+ipykernel
+dockerspawner
+netifaces
+oauthenticator
